@@ -3,6 +3,7 @@
     "description": "Scroller for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/scroller.bootstrap5.js",
     "style": "css/scroller.bootstrap5.css",
+    "types": "./types/scroller.bootstrap5.d.ts",
     "version": "2.0.3",
     "files": [
         "css/**/*.css",
