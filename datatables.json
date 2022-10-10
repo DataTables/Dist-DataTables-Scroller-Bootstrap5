@@ -1,7 +1,9 @@
 {
     "js": [
         "js/scroller.bootstrap5.js",
-        "js/scroller.bootstrap5.min.js"
+        "js/scroller.bootstrap5.min.js",
+        "js/scroller.bootstrap5.min.mjs",
+        "js/scroller.bootstrap5.mjs"
     ],
     "css": [
         "css/scroller.bootstrap5.css",
@@ -11,6 +13,5 @@
         "types/scroller.bootstrap5.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/Scroller",
-    "last-tag": "2.0.5",
-    "last-sync": "16c25787c0a754cfc28aadd5384a424704ee3cf3"
+    "last-tag": "2.0.7"
 }
