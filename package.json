@@ -5,7 +5,7 @@
     "module": "js/scroller.bootstrap5.mjs",
     "style": "css/scroller.bootstrap5.css",
     "types": "./types/scroller.bootstrap5.d.ts",
-    "version": "2.1.1",
+    "version": "2.2.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,9 +14,9 @@
     ],
     "keywords": [
         "Scroller",
- "Virtual Scrolling",
+        "Virtual Scrolling",
         "Bootstrap",
- "Bootstrap5",
+        "Bootstrap5",
         "Datatables",
         "jQuery",
         "table",
