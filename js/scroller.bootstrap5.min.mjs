@@ -1,4 +1,4 @@
-/*! Scroller Bootstrap 5 styling 3.0.0 for DataTables
+/*! Scroller Bootstrap 5 styling 3.1.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 import DataTable from"datatables.net-bs5";import Scroller from"datatables.net-scroller";export default DataTable;
